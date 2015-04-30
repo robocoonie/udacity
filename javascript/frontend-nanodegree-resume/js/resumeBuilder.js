@@ -6,3 +6,4 @@ console.log(awesomeThoughts);
 
 var funThoughts = awesomeThoughts.replace("AWESOME", "FUN!"); 
 $("#main").append(funThoughts);
+
