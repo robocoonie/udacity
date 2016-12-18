@@ -49,7 +49,7 @@ var work = {
 		{
 			"employer":"TTMS, Inc.",
 			"title":"Mobile QA Test Engineer",
-			"location":"Torrance, CA"
+			"location":"Torrance, CA",
 			"dates":"3/2014 - 5/2014",
 			"description":"Creation and maintenance of test cases and suites for a multi-component iOS and Android-based mobile Telematics solution for new-model Lexus brand vehicles. Created front-end automation testing tools using JavaScript and Selenium IDE."
 		},
@@ -127,7 +127,7 @@ var work = {
 			"employer":"Cisco",
 			"title":"Spanish Localization Consultant",
 			"location":"San Jose, CA",
-			"dates":"8/2009"
+			"dates":"8/2009",
 			"description":"Localization of source code American English UTF-8 strings to US Spanish and Latin-American Spanish UTF-8 strings for use in existing and prototype Enterprise network configuration and management software."
 		},
 		{
@@ -202,11 +202,7 @@ var projects = {
 			"title":"",
 			"dates":"",
 			"description":"",
-			"images": [
-				"url1": "",
-				"url2": "",
-				"url3": ""
-			]
+			"images": ["url1","url2","url3"]
 		}
 	]
 }
