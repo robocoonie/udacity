@@ -1,11 +1,11 @@
-//var name = "Lee Almodovar";
-//var role = "Senior QA Test Engineer";
+var name = "Lee Almodovar";
+var role = "Senior QA Test Engineer";
 
-//var formattedName = HTMLheaderName.replace("%data%", name);
-//var formattedRole = HTMLheaderRole.replace("%data%", role);
+var formattedName = HTMLheaderName.replace("%data%", name);
+var formattedRole = HTMLheaderRole.replace("%data%", role);
 
-//$("#header").prepend(formattedRole);
-//$("#header").prepend(formattedName);
+$("#header").prepend(formattedRole);
+$("#header").prepend(formattedName);
 
 
 var bio = {
@@ -188,7 +188,7 @@ var work = {
 		},
 		{
 			"employer":"Disneyland Resort",
-			"title":"Merchandise Cast Member",
+			"title":"Store Operations Cast Member",
 			"location":"Anaheim, CA",
 			"dates":"5/2001 - 6/2003",
 			"description":"Exercised Disney Model of Customer Service in a role of Store Operations Cast Member. Promoted to Lead Arcade Service Technician from January 2003 until June 2003."
